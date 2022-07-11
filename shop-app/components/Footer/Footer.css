@@ -1,0 +1,17 @@
+.footer-container {
+    display: flex;
+	justify-content: space-between;
+    align-items: center;
+    padding: var(--spacing-small);
+    height: 8hv;
+    background-color: black;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    padding: 10px ;
+}
+.menu a:hover, i:hover{
+    color: #a8eb12;
+}

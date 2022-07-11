@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "name": "Cake",
+        "img": "./img/cake.jpg",
+        "price": 60
+    },
+    {
+        "id": "2",
+        "name": "Ice coffe",
+        "img": "./img/icecofe.jpg",
+        "price": 90
+    },
+    {
+        "id": "3",
+        "name": "Ice creame",
+        "img": "./img/icecreame.jpg",
+        "price": 80
+    },
+    {
+        "id": "4",
+        "name": "Puncake",
+        "img": "./img/puncake.jpg",
+        "price": 80
+    },
+    {
+        "id": "5",
+        "name": "Pizza",
+        "img": "./img/pizza.jpg",
+        "price": 290
+    },
+    {
+        "id": "6",
+        "name": "Bigmac",
+        "img": "./img/bigmac.jpg",
+        "price": 85
+    },
+    {
+        "id": "7",
+        "name": "Sendwich",
+        "img": "./img/sandwich.jpg",
+        "price": 50
+    },
+    {
+        "id": "8",
+        "name": "Sushi",
+        "img": "./img/sushi.jpeg",
+        "price": 50
+    }
+   
+]
