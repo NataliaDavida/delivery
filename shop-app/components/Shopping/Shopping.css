@@ -1,4 +1,6 @@
 .shopping-container {
+	display: flex;
+	justify-content: space-evenly;
 	position: fixed;
 	top: 50%;
 	left: 50%;
@@ -32,4 +34,30 @@
 	background-position: center center;
 	background-size: contain;
 	cursor: pointer;
+}
+fieldset{
+	display: flex;
+	flex-direction: column;
+	width: 600px;
+	justify-content: space-between;
+	font-size: 18px;
+
+}
+input{
+	height: 35px;
+	border-radius: var(--border-radius);
+	border-color: var(--linear-gradient);
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.btn{
+	width: 150px;
+	font-size: 18px;
+	background-color: #a8eb12;
+	border: none;
+	margin: 10px auto;
+	padding: var(--spacing-small) var(--spacing-medium);
+	border-radius: var(--border-radius);
+	cursor: pointer;
+
 }
